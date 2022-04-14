@@ -65,7 +65,7 @@
 
 <div>
     <h4 style="display: inline-block;">Journaling</h4>
-    <a href = "http://18.216.88.226/">Live Site</a>
+
 </div> 
 <p>JAVA based application allowing users to register and store journal entries online </p>
 <ul>
@@ -75,7 +75,7 @@
 
 <div>
     <h4 style="display: inline-block;">Shopping List</h4>
-    <a href = "http://18.222.216.24/">Live Site</a>
+ 
 </div> 
 <p>Python designed application for users to retain meal plans for organized shopping lists </p>
 <ul>

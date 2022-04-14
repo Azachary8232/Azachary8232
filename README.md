@@ -49,16 +49,7 @@
         <a href= https://github.com/Azachary8232?tab=repositories&q=&type=&language=reactnative&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactnative.svg'> </a>
         <a href= https://github.com/Azachary8232?tab=repositories&q=&type=&language=spring&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spring.svg'> </a>
         
-        <ul>
-            <li>Languages [Python, JavaScript, Java]</li>
-            <li>Frontend Development [CSS, HTML, ReactJS, Bootstrap, Webpack, jQuery, AJAX, JPA]</li>
-            <li>Backend Development [NodeJS, Spring Tool Suite, Spring Security, ExpressJS, Flask, Bcrypt, JSP, JSON, npm, Spring Boot, Tomcat, Apache, Dependancy Injection]</li>
-            <li>Databases [MySQL, MongoDB, SQLite]</li>
-            <li>DevOps [AWS]</li>
-            <li>Software [Postman, MySQL Workbench, VS Code]</li>
-            <li>Version Control Systems [CGit, Github]</li>
-            <li>Other [Agile, Scrum, RESTful Architecture & API, MVC]</li>
-        </ul>
+
 
         <h2>Projects</h2>
         <div>
@@ -115,3 +106,4 @@
         
         <br>
         <footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
+ 

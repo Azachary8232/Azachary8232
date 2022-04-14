@@ -67,9 +67,9 @@
 </div> 
 <p>Space themed single page application with various NASA and space fun facts and images. </p>
 <ul>
-    <li>Implemented Full MERN to create a dynamic S.P.A.  with various 3js and advanced HTML 3D properties.</li>
-    <li>Integrated React for programming design and MongoDB/Mongoose to support the back-end structure.</li>
-    <li>Applied 3js and other 3D functions to enhance user imagery. </li>
+    <li>Implemented Full MERN to create a dynamic S.P.A.  with various 3js and advanced HTML 3D properties</li>
+    <li>Integrated React for programming design and MongoDB/Mongoose to support the back-end structure</li>
+    <li>Applied 3js and other 3D functions to enhance user imagery</li>
 </ul>
 
 <div>

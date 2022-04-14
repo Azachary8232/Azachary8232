@@ -49,6 +49,12 @@
 <a href= https://github.com/Azachary8232?tab=repositories&q=&type=&language=reactnative&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactnative.svg'> </a>
 <a href= https://github.com/Azachary8232?tab=repositories&q=&type=&language=spring&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spring.svg'> </a>
 
+<ul>
+    <li>Implemented Full MERN to create a dynamic S.P.A.  with various 3js and advanced HTML 3D properties.</li>
+    <li>Integrated React for programming design and MongoDB/Mongoose to support the back-end structure.</li>
+    <li>Applied 3js and other 3D functions to enhance user imagery. </li>
+</ul>
+
 <h2>Projects</h2>
 <div>
     <h4 style="display: inline-block;">Final Frontier</h4>

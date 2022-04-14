@@ -7,7 +7,7 @@
 <h1> Welcome, I'm Adam <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Azachary8232.Azachary8232)
+
 
 </p>
 <div size='20px'> Hi! My name is Adam Zachary. Thank You for taking the time to view my GitHub Profile :smile: 

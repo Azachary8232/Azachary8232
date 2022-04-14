@@ -4,7 +4,7 @@
 <img width="100%" height = "250px" src="https://media-exp1.licdn.com/dms/image/C5616AQFdozVd5Ts58A/profile-displaybackgroundimage-shrink_350_1400/0/1644338943678?e=1655337600&v=beta&t=fdgatRcjiNywgfOWviA6w8zTXoaj3rUQC0dSmU_JLZg" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Welcome, I'm Adam <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Azachary8232.Azachary8232)

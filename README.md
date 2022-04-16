@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on JAVA and Python Projects, Interview algorithms. 
 
-- 🌱 I’m currently learning JAVA, Python, AWS, React 
+- 🌱 I’m currently developing JAVA, Python, AWS, React 
 
 - 👯 I’m looking to collaborate on Projects, Advanced algorithms 
 

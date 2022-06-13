@@ -65,32 +65,34 @@
     <h4 style="display: inline-block;">Final Frontier</h4>
     <a href = "http://3.142.119.4/">Live Site</a>
 </div> 
-<p>Space themed single page application with various NASA and space fun facts and images. </p>
+<p>A Single Page Application built to demonstrate the abilities of API calls from NASA data collections. </p>
 <ul>
-    <li>Implemented Full MERN to create a dynamic S.P.A.  with various 3js and advanced HTML 3D properties</li>
-    <li>Integrated React for programming design and MongoDB/Mongoose to support the back-end structure</li>
-    <li>Applied 3js and other 3D functions to enhance user imagery</li>
+    <li>Built with Node.js for its high-performance ability and speed to handle multiple APIs in Real-time.</li>
+    <li>Integrated React.js for programming design and Component capability for multiple API patterns.</li>
+    <li>Applied 3js and other HTML/CSS 3D functions to provide a fun, interactive user experience.</li>
 </ul>
 
 <div>
     <h4 style="display: inline-block;">Journaling</h4>
 
 </div> 
-<p>JAVA based application allowing users to register and store journal entries online </p>
+<p>JAVA based application allowing users to store and revisit journal entries online </p>
 <ul>
-    <li>Built with JAVA Spring Tool Suite with full front-end and back-end support</li>
-    <li>Implemented MySQL for quick and easy database storage and recovery</li>
+    <li>Designed with JAVA Spring for its robust libraries and organized MVC structure.</li>
+    <li>Implemented MySQL for quick and easy database storage and recovery.</li>
+    <li>Developed using Spring Tool Suite to provide a versatile, ready-to-use environment for the application.</li>
+    <li>Chose Java for its vast ecosystem of knowledge and support for potential project expansion.</li>
 </ul>
 
 <div>
     <h4 style="display: inline-block;">Shopping List</h4>
  
 </div> 
-<p>Python designed application for users to retain meal plans for organized shopping lists </p>
+<p>Python structured application for users to create meal plans to simplify weekly shopping list</p>
 <ul>
-    <li>Designed with Python3 and Flask programming</li>
-    <li>Database and advanced queries composed with MySQL</li>
-    <li>User securities provide with Bcrypt </li>
+    <li>Built with Python3 for its enhanced OOP relationship connections and simplistic MVC structure.</li>
+    <li>Integrated MySQL and MySQL Workbench for dynamic database construction and query speed.</li>
+    <li>Framed with Flask for its scalability and speed.</li>
 </ul>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
